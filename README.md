@@ -2,7 +2,7 @@
 
 Description
 ---
-It is a simple demo of BERT, which is also my first step to experiment with my idea. I refer to Manish' work, [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474), and change some codes which could show what I consider about BERT.
+It is a simple demo of BERT, which is also my first step to experiment with my idea. I refer to Manish' work, [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474), and change some codes which could show what I consider about BERT. By the way, the repo of Manish's work is [here](https://github.com/munikarmanish/bert-sentiment)
 
 The code contains two models:
 * The mdoel using BERT for classification
